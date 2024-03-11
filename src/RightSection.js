@@ -7,7 +7,9 @@ import styles from './RightSection.module.css'
 import chatgptlogo from './assets/systech.png'
 import chatgptlogo2 from './assets/systech.png'
 import nouserlogo from './assets/nouserlogo.png'
-// import OpenAI from "openai";
+
+
+// Enter Your ChatGPT API Here
 
 const openAiAPI = Your_API_Here
 
