@@ -9,10 +9,7 @@ import chatgptlogo2 from './assets/systech.png'
 import nouserlogo from './assets/nouserlogo.png'
 // import OpenAI from "openai";
 
-const openAiAPI = "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"
-// const openAiAPI = new OpenAI({
-//     apiKey: "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",
-//   });
+const openAiAPI = Your_API_Here
 
 const RightSection = () => {
     const [message, setMessage] = useState('')
